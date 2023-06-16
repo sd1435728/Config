@@ -2,8 +2,14 @@
     "appStore_ver": "1.1.2",
     "appStore_id": "1628740358",
     "isUpdateShow": false,
-    "subConfig": [30,10,60],
+    "subConfig": [
+        30,
+        10,
+        60
+    ],
     "build": 3,
+    "movieGenre": "100",
+    "tvGenre": "100",
     "IPAddressArray": [
         "A24",
         "ADMOB",
