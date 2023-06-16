@@ -1,9 +1,9 @@
 {
-    "appStore_ver": "1.1.1",
+    "appStore_ver": "1.1.2",
     "appStore_id": "1628740358",
     "isUpdateShow": false,
     "subConfig": [30,10,60],
-    "build": 2,
+    "build": 3,
     "IPAddressArray": [
         "A24",
         "ADMOB",
