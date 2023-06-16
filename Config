@@ -3,6 +3,7 @@
     "appStore_id": "1628740358",
     "isUpdateShow": false,
     "subConfig": [40,20,40],
+    "showType": 2,
     "IPAddressArray": [
         "A24",
         "ADMOB",
