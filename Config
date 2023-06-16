@@ -8,8 +8,6 @@
         60
     ],
     "build": 3,
-    "movieGenre": "100",
-    "tvGenre": "100",
     "IPAddressArray": [
         "A24",
         "ADMOB",
