@@ -2,7 +2,7 @@
     "appStore_ver": "1.1.1",
     "appStore_id": "1628740358",
     "isUpdateShow": false,
-    "subConfig": [40,20,40],
+    "subConfig": [30,10,60],
     "build": 2,
     "IPAddressArray": [
         "A24",
